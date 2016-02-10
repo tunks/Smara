@@ -3,7 +3,8 @@ A dynamic report generating management service  and framework. Some of the requi
  1. User to manage report layouts templates
  2. Report contents will connect to data sources to  generate data components
  3. Components can be derived from queries, functions
- 4. Client applications would  request the report service to generate reports in different formats such as xml,html,doc,xlsx, pdf
+ 4. Client applications would  request the report service to generate reports in different
+    formats such as xml,html,doc,xlsx, pdf
  5. Actions can be added to reports such as scheduled report generation, send reports via emails.
  6. More....
 
